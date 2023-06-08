@@ -1,0 +1,1 @@
+DATA_PATH = '/Users/anmusso/Desktop/PhD/EFCSpringSchool/Group1/data'
